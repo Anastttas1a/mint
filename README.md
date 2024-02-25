@@ -1,0 +1,2 @@
+# mint
+eazy mint
